@@ -2,7 +2,7 @@ SCORM ai proof Online Assignment Builder
 
 A client-side tool that lets instructors type questions and download a SCORM 1.2–compatible ZIP. 
 
-This SCORM file is compatible with Blackboard, Canvas, Moodle, D2L, SCORM Cloud and more.
+This SCORM file is compatible with Blackboard, Canvas, Moodle, D2L, SCORM Cloud, and more.
 
 How to use:
 1. Download this repository as a ZIP and extract it.
